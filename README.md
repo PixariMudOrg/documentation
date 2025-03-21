@@ -4,7 +4,7 @@
 
 - [The First Post on Reddit](#first-post-reddit)
 - [Code of Conduct](#code-of-conduct)
-- [Dsciord](#discord)
+- [Discord](#discord)
 
 <!-- Add your content under each section -->
 
