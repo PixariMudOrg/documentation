@@ -5,6 +5,7 @@
 - [The First Post on Reddit](#first-post-reddit)
 - [Code of Conduct](#code-of-conduct)
 - [Dsciord](#discord)
+- [Contributors](#contributors)
 
 <!-- Add your content under each section -->
 
@@ -28,3 +29,7 @@ Join our [Discord server](https://discord.gg/jPYZXjBF) to:
 - Share your projects
 - Discuss ideas and improvements
 - Stay updated on the latest developments
+
+## Contributors
+
+See our [Contributors](contributors.md) page for a list of people who have contributed to this project. Feel free to add yourself by following the instructions in the file.
